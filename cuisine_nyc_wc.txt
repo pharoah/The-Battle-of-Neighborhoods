@@ -1,0 +1,53 @@
+Cuisine
+" Mexican, Puerto Rican, Dominican, Korean (on 204th St.)"
+" Italian, Albanian (also known as ""Arthur Avenue,"" ""Little Italy"")"
+" Italian, Seafood"
+" Italian, Albanian"
+" Filipino (formerly Irish, less so today)"
+ Jewish
+" Puerto Rican, Dominican"
+" Jamaican, West Indian"
+ Irish
+" Greek, Italian, Eastern European, Brazilian, Egyptian and other Arabic"
+ Indian and Pakistani
+ Chinese and Korean
+"Kew Gardens Hills; Rego Park – Jewish, Russian and Uzbek"
+Ozone Park – Italian
+ German and Polish
+" Indian, Pakistani, Bangladeshi, Colombian, Ecuadorian, Peruvian, Korean, Filipino and Mexican"
+" Bangladeshi, Caribbean; African-American; African; Creole"
+" Arab, Chinese, and Italian"
+" Indian, Guyanese, West Indian, Pakistani, Bangladeshi"
+" Irish, Jewish"
+" Irish, Dominican, Mexican, Guyanese"
+"Sunnyside – Filipino, Irish, Mexican, and Romanian"
+" Irish, Italian, Greek, Turkish, Lebanese, Palestinian, Yemeni and other Arabic"
+" African-American, Jamaican, Trinidadian, Puerto Rican and West Indian"
+"– Italian, Chinese, Turkish, Russian, Mexican, Uzbek"
+" Jewish, Italian, Mexican, Chinese"
+" Russian, Georgian, Turkish, Pakistani and Ukrainian"
+" Puerto Rican, Mexican, Dominican, and Ecuadorian"
+" Jamaican, West Indian, African-American"
+ Italian
+" Jamaican, West Indian, and Jewish"
+" African-American, Dominican, and Puerto Rican"
+" Jamaican, Haitian, and Creole"
+ Polish and Ukrainian
+" Bengali, Pakistani, Mexican, Uzbek, and Polish"
+" Jewish, Italian, Russian, and Pakistani"
+" Italian, Irish, French, and Puerto Rican (formerly)"
+" Puerto Rican, African-American, and Italian"
+" Seafood, Russian, and Italian"
+" Puerto Rican, Chinese, Arab, Mexican and Italian"
+" Italian, Jewish, Dominican and Puerto Rican"
+ Chinese and Vietnamese
+" Puerto Rican, Mexican, Dominican, Chinese-Cuban and Italian"
+" Japanese, Korean, Indian and Ukrainian"
+  Italian
+" Italian, African-American, Latin American, West Indian, and West African"
+ Korean
+ Italian
+" Puerto Rican, Jewish, Italian, and Latin American"
+" Indian, Pakistani and Bangladeshi"
+" Dominican, Puerto Rican, Italian and Jewish"
+" German, Czech, Hungarian"

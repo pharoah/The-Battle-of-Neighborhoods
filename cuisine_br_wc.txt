@@ -1,0 +1,20 @@
+Cuisine
+" Irish, Italian, Greek, Turkish, Lebanese, Palestinian, Yemeni and other Arabic"
+" African-American, Jamaican, Trinidadian, Puerto Rican and West Indian"
+"– Italian, Chinese, Turkish, Russian, Mexican, Uzbek"
+" Jewish, Italian, Mexican, Chinese"
+" Russian, Georgian, Turkish, Pakistani and Ukrainian"
+" Puerto Rican, Mexican, Dominican, and Ecuadorian"
+" Jamaican, West Indian, African-American"
+ Italian
+" Jamaican, West Indian, and Jewish"
+" African-American, Dominican, and Puerto Rican"
+" Jamaican, Haitian, and Creole"
+ Polish and Ukrainian
+" Bengali, Pakistani, Mexican, Uzbek, and Polish"
+" Jewish, Italian, Russian, and Pakistani"
+" Italian, Irish, French, and Puerto Rican (formerly)"
+" Puerto Rican, African-American, and Italian"
+" Seafood, Russian, and Italian"
+" Puerto Rican, Chinese, Arab, Mexican and Italian"
+" Italian, Jewish, Dominican and Puerto Rican"

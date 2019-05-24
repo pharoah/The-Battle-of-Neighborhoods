@@ -1,0 +1,11 @@
+ Chinese and Vietnamese
+" Puerto Rican, Mexican, Dominican, Chinese-Cuban and Italian"
+" Japanese, Korean, Indian and Ukrainian"
+  Italian
+" Italian, African-American, Latin American, West Indian, and West African"
+ Korean
+ Italian
+" Puerto Rican, Jewish, Italian, and Latin American"
+" Indian, Pakistani and Bangladeshi"
+" Dominican, Puerto Rican, Italian and Jewish"
+" German, Czech, Hungarian"
